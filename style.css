@@ -25,7 +25,7 @@ body{
     height: 2rem;
 }
 
-.footerp{
+.footer p{
     text-align: center;
     font-size: 0.8rem;
     margin: 0.5rem;
@@ -37,7 +37,7 @@ body{
 
 .cartao{
 margin: 1rem;
-background-color: rgb(181, 230, 213);
+background-color: rgb(218, 158, 218);
 height: 20rem;
 }
 .cartao-conteudo{

@@ -18,3 +18,4 @@ function criaCartao(categoria,pergunta,resposta){
 
 criaCartao('Biologia','Qual é a função da mitocondria?','Produção de Energia (ATP)')
 criaCartao('Matematica','Como é definido um grupo?','É um conjunto unido de uma operação onde esta é fechada no conjunto e tem algumas prioridades')
+criaCartao('Brasil','Quantas copas o Brasil tem?','5 copas')
